@@ -1,4 +1,4 @@
-# My Projekt
+# My Project
 
 ## This is he Subtopic
 another decription
