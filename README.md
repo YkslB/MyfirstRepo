@@ -1,5 +1,7 @@
 # My Projekt
 
-## This is he Subtopicd
+## This is he Subtopic
+
 . Bullet Point 1
+
 . Bullet Poiont 2
