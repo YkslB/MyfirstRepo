@@ -1,7 +1,7 @@
 # My Projekt
 
 ## This is he Subtopic
-another brick on the wall
+another decription
 
 . Bullet Point 1
 . Bullet Point 2
